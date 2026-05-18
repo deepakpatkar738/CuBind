@@ -44,4 +44,4 @@ Output: `<stem>_1Cu.pdb` / `<stem>_2Cu.pdb`
 
 ## License
 
-MIT
+This project is distributed under the MIT License.
